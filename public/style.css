@@ -1,0 +1,18 @@
+@import url(https://fonts.googleapis.com/css?family=Teko:400,500,700,300,600);
+
+#map {
+  height: 500px;
+  width: 500px;
+}
+
+html, body {
+  height: 100%;
+  font-family: Helvetica;
+}
+
+body {
+  background: linear-gradient(-170deg, #2376ae 0%, #c16ecf 100%) no-repeat center center fixed; 
+  background-size: cover;
+  color: white;
+  font-size: 18px;
+}
